@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC132
+#  Project 207: Web Crawler Project
+
+courseName=CMSC132
+semester=201508
+projectNumber=207
+courseKey=795851448da9dcd7
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443/fall2015
+submitURL=https://submit.cs.umd.edu:443/fall2015/eclipse/SubmitProjectViaEclipse
